@@ -1,6 +1,8 @@
 import org.junit.Assert;
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
+import java.util.List;
+import java.util.Arrays;
 
 public class PrimeCheckTest {
   // --------------------------------------------------------------- //
